@@ -43,7 +43,7 @@
 
 > **User:** What is the price to Delhi?  
 > **Assistant:** The ticket price to Delhi is $10.  
-> _![Chat UI Preview](Img_Output\Gradio_Output.png))
+> ![Chat UI Preview](Img_Output/Gradio_Output.png)
 > _🔊 Spoken response using Alloy voice_
 
 ---
